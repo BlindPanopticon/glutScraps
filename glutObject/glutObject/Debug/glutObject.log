@@ -1,0 +1,13 @@
+﻿Build started 2014-04-24 23:27:34.
+     1>Project "c:\Users\ares\documents\visual studio 2010\Projects\glutObject\glutObject\glutObject.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\glutObject.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt glutObject.cpp
+         glutObject.cpp
+     1>c:\users\ares\documents\visual studio 2010\projects\glutobject\glutobject\glutobject.cpp(79): error C2664: 'vertex::vertex(float [],float [])' : cannot convert parameter 1 from 'float' to 'float []'
+     1>Done Building Project "c:\Users\ares\documents\visual studio 2010\Projects\glutObject\glutObject\glutObject.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.65
